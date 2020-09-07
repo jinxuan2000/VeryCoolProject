@@ -1,12 +1,17 @@
 import React from 'react';
 import './App.css';
+import 'bootstrap/dist/css/bootstrap.css';
+import NavigationBar from './Components/NavigationBar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        
-      </header>
+      <NavigationBar/>
+      <div className="container">
+    
+        <p>HELLO WORLD!</p>
+
+      </div>
     </div>
   );
 }

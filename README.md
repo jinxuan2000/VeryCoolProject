@@ -21,5 +21,9 @@ When starting on a new feature or major function, branch off of development firs
 
 ## Libraries and frameworks
 React.js <br/>
-This project was bootstrapped with [Create React App].
+react-bootstrap <br/>
+reactstrap <br/>
+bootstrap <br/>
+
+<br/>This project was bootstrapped with [Create React App].<br/>
 

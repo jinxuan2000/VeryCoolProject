@@ -1,0 +1,15 @@
+.Appbar-custom {
+    padding-top: 5px !important;
+    padding-bottom: 0px !important;
+}
+
+.Appbar-header {
+    font-size: 1.8rem !important;
+}
+
+.Appbar-component, .Appbar-component:focus {
+    text-align: left !important;
+    background-color: transparent;
+    border-color: transparent;
+    color:black;
+}
